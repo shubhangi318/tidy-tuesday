@@ -1,4 +1,4 @@
-# tidy tuesday
+# tidy-tuesday
 
 ###  Week23: Anti-LGBTQ+ donations
 
